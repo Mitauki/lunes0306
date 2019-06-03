@@ -5,5 +5,7 @@ public class Ejemplo{
   
 
 		System.out.println("Ejemplo2");
+		
+		System.out.println("otra linea pete "):
  }
 }
